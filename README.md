@@ -1,5 +1,9 @@
 # DevRelCon 2019, London - Event Notes by Nick Trogh & Floor Drees
 
+Event website: https://london-2019.devrel.net/
+
+DevRel YouTube channel: https://www.youtube.com/channel/UCabc3QtCLKsNeTOx9cqDSlQ
+
 ## General Feedback
 
 A common theme during the conference was about about **making the DevRel profession more _professional_**, how to create developer programmes, and how to measure our results and impact. There was unanimity that we need to become more professional, however there were different perspectives on how to achieve this. It was also apparent that DevRel means different things to different people.
